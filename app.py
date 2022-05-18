@@ -11,7 +11,7 @@ from datetime import datetime
 from flask_admin import Admin
 from flask_admin.contrib.sqla import ModelView
 
-# flask
+# flask no
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///blog.db'
